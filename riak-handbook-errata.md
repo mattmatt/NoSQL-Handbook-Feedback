@@ -4,6 +4,7 @@
 
 Page numbers refer to the PDF version. In other versions, the page number is in no way meaningful.
 
+* Page  8: "there's the occasional assumption that some piece of code earlier code has been run at some point."; "code" should only be there once.
 * Page 11: "A lower W involves less nodes"; should be "fewer nodes"
 * Page 11: "The first R nodes to return the requested alue"; should be "value"
 * Page 11: "The optimum for consistency lies i choosing"; should be "in"
