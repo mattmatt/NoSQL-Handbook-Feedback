@@ -14,3 +14,4 @@ Page numbers refer to the PDF version. In other versions, the page number is in 
 * Page 107: missing comma
 * Code snippets should use `new Date()` instead of `Date()`
 * Page 20, 2nd Paragraph: Link to Dynamo paper wrong
+* Fixed reference to config file path for Homebrew installation
