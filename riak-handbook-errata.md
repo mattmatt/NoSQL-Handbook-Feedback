@@ -8,6 +8,7 @@ Page numbers refer to the PDF version. In other versions, the page number is in 
 * Page 11: "A lower W involves less nodes"; should be "fewer nodes"
 * Page 11: "The first R nodes to return the requested alue"; should be "value"
 * Page 11: "The optimum for consistency lies i choosing"; should be "in"
+* Page 11: "The optimum for consistency lies in choosing R and W in a way that R+W=N", the formula should be `R+W>N`
 * Page 15: "Not only is that a very expensive operation, it defeats the purpose of adding new nodes"; "it defeats" could perhaps be "it also defeats" or "but it also defeats"
 * Page 20, first sentence on quorum-based systems: rites should be writes
 * Page 23: worth should be worse
