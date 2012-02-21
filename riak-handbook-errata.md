@@ -16,3 +16,5 @@ Page numbers refer to the PDF version. In other versions, the page number is in 
 * Code snippets should use `new Date()` instead of `Date()`
 * Page 20, 2nd Paragraph: Link to Dynamo paper wrong
 * Fixed reference to config file path for Homebrew installation
+* Page 28: "require('riak')" should be "require('riak-js')"
+* Fixed problems with borked code examples that have < or > in them
