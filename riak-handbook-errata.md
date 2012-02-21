@@ -18,3 +18,5 @@ Page numbers refer to the PDF version. In other versions, the page number is in 
 * Fixed reference to config file path for Homebrew installation
 * Page 28: "require('riak')" should be "require('riak-js')"
 * Fixed problems with borked code examples that have < or > in them
+* Page 32: curl command example is missing -v option
+* Page 32: code example to fetch links was missing closing )
