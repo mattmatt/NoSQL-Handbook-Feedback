@@ -20,3 +20,4 @@ Page numbers refer to the PDF version. In other versions, the page number is in 
 * Fixed problems with borked code examples that have < or > in them
 * Page 32: curl command example is missing -v option
 * Page 32: code example to fetch links was missing closing )
+* Page 31: Incorrectly referenced location instead of longitude.
